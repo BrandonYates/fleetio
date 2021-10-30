@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fleetio</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="tab_text_fuel_records">Fuel Records</string>
+    <string name="tab_text_map">Records Map</string>
+</resources>
