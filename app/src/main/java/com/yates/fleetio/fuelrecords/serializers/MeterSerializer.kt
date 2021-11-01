@@ -49,7 +49,7 @@ class MeterSerializer : JsonSerializer<MeterEntry>, JsonDeserializer<MeterEntry>
                 meter_type = obj.getOrNull("meter_type")?.asString,
                 meterable_id = obj.get("meterable_id").asInt,
                 meterable_type = obj.get("meterable_type").asString,
-                value = obj.get("value").asInt,
+                value = obj.get("value").asFloat,
                 vehicle_id = obj.get("vehicle_id").asInt,
                 void = obj.get("void").asBoolean,
                 created_at = obj.get("created_at").asString.let(FleetioDateFormat::parse),

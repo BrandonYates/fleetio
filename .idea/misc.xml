@@ -3,12 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/brand/AndroidStudioProjects/Fleetio/app/src/main/res/layout/activity_main.xml" value="0.2033514492753623" />
+        <entry key="..\:/Users/brand/AndroidStudioProjects/Fleetio/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Users/brand/AndroidStudioProjects/Fleetio/app/src/main/res/layout/activity_maps.xml" value="0.1160081053698075" />
+        <entry key="..\:/Users/brand/AndroidStudioProjects/Fleetio/app/src/main/res/layout/fragment_fuel_record2.xml" value="0.264" />
+        <entry key="..\:/Users/brand/AndroidStudioProjects/Fleetio/app/src/main/res/layout/fragment_fuel_record2_list.xml" value="0.10586797066014669" />
         <entry key="..\:/Users/brand/AndroidStudioProjects/Fleetio/app/src/main/res/layout/fragment_main.xml" value="0.2033514492753623" />
-        <entry key="..\:/Users/brand/AndroidStudioProjects/Fleetio/app/src/main/res/layout/fuel_records_fragment.xml" value="0.1160081053698075" />
-        <entry key="..\:/Users/brand/AndroidStudioProjects/Fleetio/app/src/main/res/layout/map_fragment.xml" value="0.1" />
+        <entry key="..\:/Users/brand/AndroidStudioProjects/Fleetio/app/src/main/res/layout/fuel_record_row_item.xml" value="0.264" />
+        <entry key="..\:/Users/brand/AndroidStudioProjects/Fleetio/app/src/main/res/layout/fuel_records_fragment.xml" value="0.264" />
+        <entry key="..\:/Users/brand/AndroidStudioProjects/Fleetio/app/src/main/res/layout/map_fragment.xml" value="0.128" />
         <entry key="..\:/Users/brand/AndroidStudioProjects/Fleetio/app/src/main/res/layout/tab_layout.xml" value="0.2033514492753623" />
+        <entry key="..\:/Users/brand/AppData/Local/Android/Sdk/platforms/android-31/data/res/layout/simple_list_item_1.xml" value="0.18070652173913043" />
       </map>
     </option>
   </component>

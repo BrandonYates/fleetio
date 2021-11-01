@@ -19,10 +19,10 @@ class MainActivity : AppCompatActivity() {
         setContentView(binding.root)
 
         val sectionsPagerAdapter = MainActivityPagerAdapter(this)
-
         val viewPager: ViewPager2 = binding.pager
 
         viewPager.adapter = sectionsPagerAdapter
+        viewPager.isUserInputEnabled = false
 
         TabLayoutMediator(binding.tabs, viewPager) { tab, position ->
             tab.text = getString(titles[position])

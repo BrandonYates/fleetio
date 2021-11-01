@@ -4,4 +4,16 @@
     <string name="title_activity_main">MainActivity</string>
     <string name="tab_text_fuel_records">Fuel Records</string>
     <string name="tab_text_map">Records Map</string>
+    <string name="tabs_content_description">A tab bar which allows navigation between the records and map pages</string>
+    <string name="vehicle_name_lbl_cd">A Label for the record vehicle name</string>
+    <string name="name">Name:</string>
+    <string name="date">Date:</string>
+    <string name="cost">Cost</string>
+    <string name="cpm">Cost per mile:</string>
+    <string name="gallons">Gallons:</string>
+    <string name="fuelType">Fuel Type:</string>
+    <string name="price">Price:</string>
+    <string name="vendor">Vendor:</string>
+    <string name="referenceNumber">Ref. Number:</string>
+
 </resources>

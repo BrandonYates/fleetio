@@ -3,7 +3,7 @@ package com.yates.fleetio.ui.main
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentActivity
 import androidx.viewpager2.adapter.FragmentStateAdapter
-import com.yates.fleetio.fuelrecords.FuelRecordsFragment
+import com.yates.fleetio.fuelrecords.FuelRecordFragment
 import com.yates.fleetio.map.MapFragment
 
 /**
@@ -16,7 +16,7 @@ class MainActivityPagerAdapter(activity: FragmentActivity) : FragmentStateAdapte
 
     override fun createFragment(position: Int): Fragment =
         if(position == 0) {
-            FuelRecordsFragment.newInstance()
+            FuelRecordFragment.newInstance()
         } else  {
             MapFragment.newInstance()
         }
