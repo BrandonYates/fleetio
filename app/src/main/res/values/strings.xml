@@ -15,5 +15,6 @@
     <string name="price">Price:</string>
     <string name="vendor">Vendor:</string>
     <string name="referenceNumber">Ref. Number:</string>
+    <string name="notAvailable">N/A</string>
 
 </resources>
